@@ -1,4 +1,4 @@
-print("Hello World")
+print("Hello Google!")
 
-x = 2
+x = " It 's a pleasure to participate with Google"
 print(x)
